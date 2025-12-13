@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u05E9\u05E0\u05D4 \u05D0\\Tree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A59548-881E-4DFC-A7E0-1BD62D778AD7}|Tree.csproj|e:\\\u05E9\u05E0\u05D4 \u05D0\\tree\\bintree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A59548-881E-4DFC-A7E0-1BD62D778AD7}|Tree.csproj|solutionrelative:bintree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A59548-881E-4DFC-A7E0-1BD62D778AD7}|Tree.csproj|e:\\\u05E9\u05E0\u05D4 \u05D0\\tree\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A59548-881E-4DFC-A7E0-1BD62D778AD7}|Tree.csproj|solutionrelative:treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A59548-881E-4DFC-A7E0-1BD62D778AD7}|Tree.csproj|e:\\\u05E9\u05E0\u05D4 \u05D0\\tree\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A59548-881E-4DFC-A7E0-1BD62D778AD7}|Tree.csproj|solutionrelative:list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A59548-881E-4DFC-A7E0-1BD62D778AD7}|Tree.csproj|e:\\\u05E9\u05E0\u05D4 \u05D0\\tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A59548-881E-4DFC-A7E0-1BD62D778AD7}|Tree.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A59548-881E-4DFC-A7E0-1BD62D778AD7}|Tree.csproj|e:\\\u05E9\u05E0\u05D4 \u05D0\\tree\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A59548-881E-4DFC-A7E0-1BD62D778AD7}|Tree.csproj|solutionrelative:node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Node.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D0\\Tree\\Node.cs",
+              "RelativeDocumentMoniker": "Node.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D0\\Tree\\Node.cs",
+              "RelativeToolTip": "Node.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:57:44.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinTree.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D0\\Tree\\BinTree.cs",
+              "RelativeDocumentMoniker": "BinTree.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D0\\Tree\\BinTree.cs",
+              "RelativeToolTip": "BinTree.cs",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAkwA8BAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:18:28.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D0\\Tree\\List.cs",
+              "RelativeDocumentMoniker": "List.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D0\\Tree\\List.cs",
+              "RelativeToolTip": "List.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:56:51.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TreeNode.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D0\\Tree\\TreeNode.cs",
+              "RelativeDocumentMoniker": "TreeNode.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D0\\Tree\\TreeNode.cs",
+              "RelativeToolTip": "TreeNode.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:17:48.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D0\\Tree\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D0\\Tree\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:37:38.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
