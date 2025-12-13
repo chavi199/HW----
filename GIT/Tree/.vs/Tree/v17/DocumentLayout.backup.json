@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05E4\u05D5\u05D3\u05D5\u05DC\u05E1\u05E7\u05D9\\Desktop\\\u05D7\u05D5\u05D9\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05EA\u05D9\u05DE\u05D9\u05DD \u05D4\u05E8\u05E6\u05D5\u05EA\\Tree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A59548-881E-4DFC-A7E0-1BD62D778AD7}|Tree.csproj|c:\\users\\\u05E4\u05D5\u05D3\u05D5\u05DC\u05E1\u05E7\u05D9\\desktop\\\u05D7\u05D5\u05D9\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05EA\u05D9\u05DE\u05D9\u05DD \u05D4\u05E8\u05E6\u05D5\u05EA\\tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A59548-881E-4DFC-A7E0-1BD62D778AD7}|Tree.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A59548-881E-4DFC-A7E0-1BD62D778AD7}|Tree.csproj|c:\\users\\\u05E4\u05D5\u05D3\u05D5\u05DC\u05E1\u05E7\u05D9\\desktop\\\u05D7\u05D5\u05D9\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05EA\u05D9\u05DE\u05D9\u05DD \u05D4\u05E8\u05E6\u05D5\u05EA\\tree\\bintree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A59548-881E-4DFC-A7E0-1BD62D778AD7}|Tree.csproj|solutionrelative:bintree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A59548-881E-4DFC-A7E0-1BD62D778AD7}|Tree.csproj|c:\\users\\\u05E4\u05D5\u05D3\u05D5\u05DC\u05E1\u05E7\u05D9\\desktop\\\u05D7\u05D5\u05D9\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05EA\u05D9\u05DE\u05D9\u05DD \u05D4\u05E8\u05E6\u05D5\u05EA\\tree\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A59548-881E-4DFC-A7E0-1BD62D778AD7}|Tree.csproj|solutionrelative:treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A59548-881E-4DFC-A7E0-1BD62D778AD7}|Tree.csproj|c:\\users\\\u05E4\u05D5\u05D3\u05D5\u05DC\u05E1\u05E7\u05D9\\desktop\\\u05D7\u05D5\u05D9\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05EA\u05D9\u05DE\u05D9\u05DD \u05D4\u05E8\u05E6\u05D5\u05EA\\tree\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A59548-881E-4DFC-A7E0-1BD62D778AD7}|Tree.csproj|solutionrelative:list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A59548-881E-4DFC-A7E0-1BD62D778AD7}|Tree.csproj|c:\\users\\\u05E4\u05D5\u05D3\u05D5\u05DC\u05E1\u05E7\u05D9\\desktop\\\u05D7\u05D5\u05D9\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05EA\u05D9\u05DE\u05D9\u05DD \u05D4\u05E8\u05E6\u05D5\u05EA\\tree\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A59548-881E-4DFC-A7E0-1BD62D778AD7}|Tree.csproj|solutionrelative:node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E4\u05D5\u05D3\u05D5\u05DC\u05E1\u05E7\u05D9\\Desktop\\\u05D7\u05D5\u05D9\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05EA\u05D9\u05DE\u05D9\u05DD \u05D4\u05E8\u05E6\u05D5\u05EA\\Tree\\Node.cs",
+              "RelativeDocumentMoniker": "Node.cs",
+              "ToolTip": "C:\\Users\\\u05E4\u05D5\u05D3\u05D5\u05DC\u05E1\u05E7\u05D9\\Desktop\\\u05D7\u05D5\u05D9\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05EA\u05D9\u05DE\u05D9\u05DD \u05D4\u05E8\u05E6\u05D5\u05EA\\Tree\\Node.cs",
+              "RelativeToolTip": "Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:57:44.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "List.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E4\u05D5\u05D3\u05D5\u05DC\u05E1\u05E7\u05D9\\Desktop\\\u05D7\u05D5\u05D9\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05EA\u05D9\u05DE\u05D9\u05DD \u05D4\u05E8\u05E6\u05D5\u05EA\\Tree\\List.cs",
+              "RelativeDocumentMoniker": "List.cs",
+              "ToolTip": "C:\\Users\\\u05E4\u05D5\u05D3\u05D5\u05DC\u05E1\u05E7\u05D9\\Desktop\\\u05D7\u05D5\u05D9\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05EA\u05D9\u05DE\u05D9\u05DD \u05D4\u05E8\u05E6\u05D5\u05EA\\Tree\\List.cs",
+              "RelativeToolTip": "List.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAuwLwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:56:51.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TreeNode.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E4\u05D5\u05D3\u05D5\u05DC\u05E1\u05E7\u05D9\\Desktop\\\u05D7\u05D5\u05D9\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05EA\u05D9\u05DE\u05D9\u05DD \u05D4\u05E8\u05E6\u05D5\u05EA\\Tree\\TreeNode.cs",
+              "RelativeDocumentMoniker": "TreeNode.cs",
+              "ToolTip": "C:\\Users\\\u05E4\u05D5\u05D3\u05D5\u05DC\u05E1\u05E7\u05D9\\Desktop\\\u05D7\u05D5\u05D9\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05EA\u05D9\u05DE\u05D9\u05DD \u05D4\u05E8\u05E6\u05D5\u05EA\\Tree\\TreeNode.cs",
+              "RelativeToolTip": "TreeNode.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:17:48.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BinTree.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E4\u05D5\u05D3\u05D5\u05DC\u05E1\u05E7\u05D9\\Desktop\\\u05D7\u05D5\u05D9\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05EA\u05D9\u05DE\u05D9\u05DD \u05D4\u05E8\u05E6\u05D5\u05EA\\Tree\\BinTree.cs",
+              "RelativeDocumentMoniker": "BinTree.cs",
+              "ToolTip": "C:\\Users\\\u05E4\u05D5\u05D3\u05D5\u05DC\u05E1\u05E7\u05D9\\Desktop\\\u05D7\u05D5\u05D9\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05EA\u05D9\u05DE\u05D9\u05DD \u05D4\u05E8\u05E6\u05D5\u05EA\\Tree\\BinTree.cs",
+              "RelativeToolTip": "BinTree.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAIAwwNAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T15:18:28.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E4\u05D5\u05D3\u05D5\u05DC\u05E1\u05E7\u05D9\\Desktop\\\u05D7\u05D5\u05D9\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05EA\u05D9\u05DE\u05D9\u05DD \u05D4\u05E8\u05E6\u05D5\u05EA\\Tree\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u05E4\u05D5\u05D3\u05D5\u05DC\u05E1\u05E7\u05D9\\Desktop\\\u05D7\u05D5\u05D9\\\u05D0\u05DC\u05D2\u05D5\u05E8\u05EA\u05D9\u05DE\u05D9\u05DD \u05D4\u05E8\u05E6\u05D5\u05EA\\Tree\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:37:38.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

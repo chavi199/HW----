@@ -1,0 +1,14 @@
+C:\Users\פודולסקי\Desktop\חוי\אלגורתימים הרצות\Tree\bin\Debug\net8.0\Tree.exe
+C:\Users\פודולסקי\Desktop\חוי\אלגורתימים הרצות\Tree\bin\Debug\net8.0\Tree.deps.json
+C:\Users\פודולסקי\Desktop\חוי\אלגורתימים הרצות\Tree\bin\Debug\net8.0\Tree.runtimeconfig.json
+C:\Users\פודולסקי\Desktop\חוי\אלגורתימים הרצות\Tree\bin\Debug\net8.0\Tree.dll
+C:\Users\פודולסקי\Desktop\חוי\אלגורתימים הרצות\Tree\bin\Debug\net8.0\Tree.pdb
+C:\Users\פודולסקי\Desktop\חוי\אלגורתימים הרצות\Tree\obj\Debug\net8.0\Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\פודולסקי\Desktop\חוי\אלגורתימים הרצות\Tree\obj\Debug\net8.0\Tree.AssemblyInfoInputs.cache
+C:\Users\פודולסקי\Desktop\חוי\אלגורתימים הרצות\Tree\obj\Debug\net8.0\Tree.AssemblyInfo.cs
+C:\Users\פודולסקי\Desktop\חוי\אלגורתימים הרצות\Tree\obj\Debug\net8.0\Tree.csproj.CoreCompileInputs.cache
+C:\Users\פודולסקי\Desktop\חוי\אלגורתימים הרצות\Tree\obj\Debug\net8.0\Tree.dll
+C:\Users\פודולסקי\Desktop\חוי\אלגורתימים הרצות\Tree\obj\Debug\net8.0\refint\Tree.dll
+C:\Users\פודולסקי\Desktop\חוי\אלגורתימים הרצות\Tree\obj\Debug\net8.0\Tree.pdb
+C:\Users\פודולסקי\Desktop\חוי\אלגורתימים הרצות\Tree\obj\Debug\net8.0\Tree.genruntimeconfig.cache
+C:\Users\פודולסקי\Desktop\חוי\אלגורתימים הרצות\Tree\obj\Debug\net8.0\ref\Tree.dll
