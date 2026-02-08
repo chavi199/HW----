@@ -14,9 +14,13 @@ public class DBconection {
 
     private DBconection() {}
     public static Connection getConnection() throws SQLException {
-    	
+    	"jdbc:sqlserver://localhost;databaseName=jewelry_store"
+
     	if(instance==null)
-    		instance=DriverManager.getConnection("jdbc:mysql://localhost:3306/mydb","chavi", "123456");                
+    		instance=DriverManager.getConnection("jdbc:sqlserver://localhost;databaseName=jewelry_store"
+);                
+
+//    		instance=DriverManager.getConnection("jdbc:mysql://localhost:3306/mydb","chavi", "123456");                
                return instance;       	
     }
     public class Main {
