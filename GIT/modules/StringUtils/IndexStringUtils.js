@@ -1,0 +1,6 @@
+export {shorten} from "./shorten"
+export {StartsWith} from "./StartsWith"
+export { CompareEnd } from "./CompareEnd"
+export { pol} from "./polindrom"
+export {toUppeFirst} from "./toUpperFirst"
+export {countWords} from "./countWords"
